@@ -6,7 +6,7 @@ This is a simple, matrix-based command-line implementation of John Conway's famo
 - **Grid Size:** Fixed 20x30 matrix (20 Rows, 30 Columns).
 - **Cell Representations:** - `.` represents a **Dead** cell.
   - `$` represents an **Alive** cell.
-- **Timing:** A fixed **2-second delay** is enforced between every single generation so the user can easily observe the pattern changes.
+- **Timing:** A fixed **2-second delay** is enforced between every single generation so you can easily observe the pattern changes.
 - **Continuous Print:** Generations are printed sequentially in the terminal without clearing the screen, allowing you to scroll back and track history.
 
 ---
